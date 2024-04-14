@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anubhavnair.anubhavnair" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Anubhav+Nayar!;+I'm+am+a+Full-Stack+Web+Application+developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Anubhav+Nayar..!+💪;+Full-Stack+Developer;+From+'Bhilai+(C.G.)';" />
 </h1>
 
 <h3 align="center">A passionate "Software and Web Application Developer" from Bhilai (C.G.)</h3>
