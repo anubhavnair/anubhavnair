@@ -30,6 +30,9 @@
   <a href="https://github.com/anubhavnair" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.instagram.com/anu_bhv.23" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&logoColor=E4405F" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
